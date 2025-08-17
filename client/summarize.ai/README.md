@@ -183,7 +183,7 @@ Frontend:
 ## Scripts
 
 Backend (server):
-- npm run dev — start backend (auto‑reload if configured)
+- npm run dev — start backend 
 - npm start — start with node
 
 Frontend (client):
